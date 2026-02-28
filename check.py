@@ -68,4 +68,4 @@ def main():
 if __name__ == "__main__":
     while True:
         main()
-        time.sleep(300)  # runs every 5 minutes
+        time.sleep(600)  # runs every 10 minutes
