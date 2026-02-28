@@ -66,6 +66,5 @@ def main():
 
 
 if __name__ == "__main__":
-    while True:
         main()
         time.sleep(600)  # runs every 10 minutes
