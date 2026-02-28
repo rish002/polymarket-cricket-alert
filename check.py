@@ -1,3 +1,4 @@
+print("SCRIPT STARTED 🚀")
 import requests
 import os
 import time
